@@ -1,0 +1,4 @@
+route_id,service_id,trip_id,shape_id,trip_headsign,direction_id,block_id,wheelchair_accessible,route_direction,trip_note,bikes_allowed
+2-T2-sj2-1,TA+0m400+7,20-L.1452.111.128.B.8.89845549,2-T2-sj2-1.53.R,City Circle Via Granville,1,7+5577,1,Parramatta or Leppington to City,,
+2-T8-sj2-1,TA+7n500+7,754C.1452.111.2.A.8.89849426,2-T8-sj2-1.61.H,City Circle Via Town Hall,0,7+5573,1,City to Macarthur via Airport or Sydenham,,
+3-M1-sj2-1,TA+0k600+11,0199-001-151-004:1000,3-M1-sj2-1.8.R,Sydenham,1,,1,Tallawong to Sydenham,,
