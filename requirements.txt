@@ -1,0 +1,2 @@
+# Core data handling for GTFS static files (CSV)
+pandas>=2.0,<3
